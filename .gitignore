@@ -3,55 +3,48 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
 # Distribution / packaging
 build/
 dist/
 *.egg-info/
-*.eggs/
+*.egg
+MANIFEST
 *.whl
-*.manifest
-*.spec
 
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Virtual environments
-venv/
-env/
-ENV/
-.venv/
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.cache
-.pytest_cache/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# IDE / editor folders
-.vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
-
 # OS-specific files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
 
 # Environment variables / secrets
 .env
 *.env
 
-# Misc
+# Logs and temp files
 *.log
+*.tmp
+*.bak
+
+# Database files
 *.sqlite3
 *.db
-*.bak
-*.tmp
-*.zip
-*.tar.gz
+
+# OneDrive sync artifacts
+*.lnk
+~$*
