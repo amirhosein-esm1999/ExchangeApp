@@ -39,12 +39,12 @@ A desktop application for converting major world currencies and visualizing thei
 
 You can download the latest release from GitHub:
 
-🔗 [Download Executable](YOUR_RELEASE_LINK_HERE)
+🔗 [Download Executable](RELEASE_LINK)
 
 Or clone the repository to explore the source code:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CurrencyConverter.git
+git clone https://github.com/amirhosein-esm1999/ExchangeApp.git
 
 
 
