@@ -1,4 +1,4 @@
-# Currency Converter & Live Chart
+# Currency-Converter & Live Chart
 
 A desktop application for converting major world currencies and visualizing their exchange rate trends in real time. Built with Python and Tkinter, this tool offers a simple yet powerful interface for tracking global currency movements.
 
@@ -39,12 +39,12 @@ A desktop application for converting major world currencies and visualizing thei
 
 You can download the latest release from GitHub:
 
-🔗 [Download Executable](https://github.com/amirhosein-esm1999/ExchangeApp/releases/download/1.0.1/main.exe)
+🔗 [Download Executable](https://github.com/amirhosein-esm1999/Currency-Convertor/releases/download/1.0.1/main.exe)
 
 Or clone the repository to explore the source code:
 
 ```bash
-git clone https://github.com/amirhosein-esm1999/ExchangeApp.git
+git clone https://github.com/amirhosein-esm1999/Currency-Convertor.git
 
 
 
