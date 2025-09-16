@@ -39,7 +39,7 @@ A desktop application for converting major world currencies and visualizing thei
 
 You can download the latest release from GitHub:
 
-🔗 [Download Executable](RELEASE_LINK)
+🔗 [Download Executable](https://github.com/amirhosein-esm1999/ExchangeApp/releases/download/1.0.1/main.exe)
 
 Or clone the repository to explore the source code:
 
