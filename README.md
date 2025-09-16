@@ -29,9 +29,9 @@ A desktop application for converting major world currencies and visualizing thei
 
 ## Screenshot
 
-![Homepage](screenshots\Homepage.png)
-![Livegraph](screenshots\Livegraph.png)
-![Conversionpage](screenshots\Conversionpage.png)
+![Homepage](screenshots/Homepage.png)
+![Livegraph](screenshots/Livegraph.png)
+![Conversionpage](screenshots/Conversionpage.png)
 
 
 
